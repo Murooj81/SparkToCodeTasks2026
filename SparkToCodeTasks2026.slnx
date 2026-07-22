@@ -1,7 +1,9 @@
 <Solution>
   <Folder Name="/Solution Items/">
     <File Path="DatabeasTasks/Airline Information System  .jpeg" />
+    <File Path="DatabeasTasks/Airline Information System Mapping.jpg" />
     <File Path="DatabeasTasks/College Management System .jpeg" />
     <File Path="DatabeasTasks/Company Database .jpeg" />
   </Folder>
+  <Project Path="mini PrpjectSlution/mini PrpjectSlution.csproj" />
 </Solution>
